@@ -1,3 +1,5 @@
+DEMO: https://qr-code-generator-using-react.vercel.app
+
 This project is a QR Code Generator web application created using React. It allows users to generate QR codes dynamically based on input and download them as images. The application is styled with Bootstrap and leverages the qrcode.react library for QR code rendering.
 
 Features
